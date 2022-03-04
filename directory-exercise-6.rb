@@ -1,0 +1,1 @@
+# Research how the method center() of the String class works. Use it in your code to make the output beautifully aligned.
